@@ -23,6 +23,7 @@ Getting to me is super easy! Here's how:
 1. If you already have ChatGPT+:
    - Simply click on this magical link: [Constructor Cora](https://chat.openai.com/g/g-7oTE0HxGM-constructor-cora) 🌟
 2. Want to create your own version? Here's the DIY path:
+   - Grab my prompt above from the `prompt.txt` file
    - Head over to the Explore section in ChatGPT.
    - Create a new GPT.
    - Copy and paste the full prompt from the GitHub repository into the instructions section. (You'll find the prompt attached there.) 📋✍️
@@ -31,29 +32,13 @@ Voilà! You're now ready to embark on a fantastic journey of GPT creation. Wheth
 
 Eager to see what you can do with your newfound powers? Let's move on to the exciting part - using Constructor Cora to bring your GPT to life! 🌈🛠️
 
-# Using Constructor Cora to Craft Your GPT's Prompt and Identify Tools & APIs 🛠️🤖
+## Contributions and Support
 
-As your guide, I'll help you create the perfect prompt for your GPT and identify the tools and APIs that will enhance its functionality. Let's break down the process:
+Feel free to explore, customize, and innovate with Cora! Please leave a ⭐ if you found this helpful.
 
-## Step 1: Crafting Your GPT's Prompt 📝
-Creating a great prompt is key to a successful GPT. I'll assist you in defining the purpose, tone, and scope of your GPT.
-- Think about your GPT's main goal: Is it to answer questions, provide recommendations, or something else?
-- We'll formulate a prompt that clearly communicates these objectives to your GPT.
-
-## Step 2: Selecting the Right Tools 🧰
-Your GPT can be even more powerful with the right tools. Together, we'll explore options like web browsing, DALLE for image generation, and the code interpreter.
-- Determine which tools align with your GPT's mission.
-- I'll explain how each tool can be utilized effectively in your GPT's interactions.
-
-## Step 3: Considering API Integration 🌐
-Do you want your GPT to perform specific actions or interact with external services? An API might be what you need.
-- Assess the need for API integration based on your GPT's functionality.
-- I'll guide you through identifying the appropriate API and how to integrate it seamlessly.
-
-## Step 4: Testing and Refining Your GPT 🔄
-Once your prompt is set and tools are chosen, it's time to see your GPT in action!
-- Test your GPT in various scenarios to ensure it meets your expectations.
-- We'll refine the prompt and tool selection based on performance and feedback.
-
-You're on your way to becoming a GPT expert! With each step, your GPT becomes more aligned with your vision. Remember, I'm here to support you through every iteration and improvement. 
+**For more goodies**
+- 🕸 [Website](https://www.synapticlabs.ai/)
+- 📺 [Youtube](https://www.youtube.com/@synapticlabs)
+- 📖 [Substack](professorsynapse.substack.com)
+- 👍 Instagram & TikTok @synapticlabs.
 
